@@ -1,7 +1,7 @@
 export const Header = () => {
   return (
-    <header className=" bg-gradient-to-r from-gray-500 to-gray-600 text-white py-5 font-sans font-thin">
-      <div className="container mx-auto flex justify-between items-center">
+    <header className=" bg-gradient-to-r from-slate-600 to-slate-800 text-white py-5 font-sans font-thin w-screen">
+      <div className="container mx-auto flex justify-between items-center px-8">
         <h1 className="text-2xl">Esperança Munlela</h1>
         <nav>
           <ul className="flex space-x-4">
